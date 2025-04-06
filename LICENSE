@@ -19,3 +19,36 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+### Additional GitHub Files
+
+1. **requirements.txt**
+requests>=2.26.0
+beautifulsoup4>=4.10.0
+2. **LICENSE** (MIT recommended)
+3. **.gitignore**
+*.json
+*.log
+pycache/
+*.pyc
+.env
+*.DS_Store
+
+4. **CONTRIBUTING.md** (optional)
+5. **examples/** directory with:
+   - Sample targets file
+   - Sample output file
+   - Example usage scenarios
+
+### Tags
+`security` `api-security` `pentesting` `idor` `rest-api` `graphql` `vulnerability-scanner`
+
+### Recommended GitHub Topics
+- api-security
+- web-security
+- idor-vulnerability
+- rest-api-testing
+- graphql-security
+- security-automation
+
+This setup provides a professional GitHub repository with all necessary documentation for security researchers and developers to use your API IDOR scanner effectively.
